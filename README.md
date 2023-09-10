@@ -24,7 +24,6 @@ This assignment will challenge you to polish your FinTech research skills by acc
 
 ### 1. Choose a FinTech domain that you find relevant or interesting.
 
-**Note:** We covered a number of FinTech domains in class this week. If you already have a company in mind that you want to research, skip ahead to Step 3.
 
 * Payments/Billing
 
@@ -34,37 +33,16 @@ This assignment will challenge you to polish your FinTech research skills by acc
 
 * Wealth Management
 
-* Enterprise Solutions
-
-* Insurance (InsurTech)
-
-* Mortgage/Real Estate
-
 * Personal Finance/Deposits/Online Banking
 
-* Lending
+### My company (Cash App) mostly fits into these 4 catagories the best.
 
-* Blockchain and Cryptocurrencies
-
-* Regulation Technology (RegTech)
-
-* Open Banking
-
-* Robo-advising
-
-Remember that because FinTech is an evolving field, different FinTech reports may use different names and definitions for various domains and sectors (e.g., CB Insights, Investopedia, Accenture). In addition, you may come across lists of FinTech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
 
 ### 2. Choose a company (or project) within  your chosen Fintech domain.
 
 Use online research to identify the trends in your domain, and choose a company that is successful or otherwise interesting to you. For example, if you chose Wealth Management, you may want to look at online journals, periodicals, reports, and websites about the future of Wealth Management, or how FinTech is changing or disrupting Wealth Management.
 
-Your company could be:
-
-* A new, emerging FinTech company that is doing well in a particular domain. Examples include Square, Plaid, Lemonade, RobinHood, and Coinbase.
-
-* A large incumbent financial or technology company that is doing something interesting and new with technology. Examples include Goldman Sachs’ Marcus, JP Morgan’s JPMCoin, Facebook Libra, and Apple Card.
-
-* A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a FinTech company in your local area or a company with a new idea that you would like to learn more about.
+* The company that worked best for me and that has taken personal finance to another level would be Cash App. I chose Cash App because it has revolutionized banking and investing, by allowing people easier access to stocks and crypto currencies by allowing people to buy any amount of the assests through partial-shares. They also made peer-peer sales easier than ever for the client.
 
 ### 3. Conduct your research, using the case study template as a guide.
 
@@ -75,132 +53,130 @@ We recommend that you use the case study template below in order to focus your r
 **Case Study Template**
 
 ```
-# TITLE
+# The BEST App; Cash App
 
-## Overview and Origin
+# Overview and Origin
 
-* Name of company
+## Name of the Company
 
-* When was the company incorporated?
+  * Cash App
 
-* Who are the founders of the company?
+## When was the company incorporated?
 
-* How did the idea for the company (or project) come about?
+  * Incorporated October 15, 2013 under the name "Square Cash"
+  * Officially known as "Cash App" on November 2015.
 
-* How is the company funded? How much funding have they received?
+## Who are the founders of the company?
+
+  * Bob Lee (Hired by Jack onto 'Square' where he later created Cash App)
+  * Jack Dorsey (Former CEO of Twitter)
+
+## How did the idea for the company (or project) come about?
+
+  * The creation of 'Square Cash' happened when Jacks good friend Jim recieved a glass order for $2,000 but he didn't have a way to accept the payment. This caused him to call up Jack and complain to him how his iphone could do everything but take a credit card payment. Resulting in them making the first 'Square'. This invention allowed people to swipe credit cards and take payments through their mobile device.
+
+## How is the company funded? How much funding have they received?
+
+  * The company is funded by three main factors,
+               * Transaction fees
+               * Cash App Cards
+               * Selling Bitcoin
+  * Cash Apps revenue in 2022 was $10.6 billion which was a 14% decline from 2021
 
 
-## Business Activities:
+# Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+## What specific financial problem is the company or project trying to solve?
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+  * Cash App is trying to make mobile peer-peer transactions and investing easier for the user.
+
+## Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+  * Cash Apps main intended customer would be mom and pop shops internationally.
+  * Cash Apps invations help many mom and pop shops around the globe in many regions such as, North and South America, Asia, the Middle East, and so on.
+  * Cash Apps offers an easy peer-peer paymnent system with low transactional fees.
 
+## Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-## Landscape:
+  * Cash Apps "uses cutting-edge enccryption" and fraud detection technology this is connected to the users information and how their transaction can be tracked.
+  * They use a GOOGLE Cloud AI storage system
+  * Cash Apps also runs on NVIDIA's GPU systems 
 
-* What domain of the financial industry is the company in?
+# Landscape:
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+## What domain of the financial industry is the company in?
 
-* What are the other major companies in this domain?
+  * Cash Apps main domains would be;
+              * Payments/billings,
+              * Cryptocurrency,
+              * and Personal Finance.
 
+## What have been the major trends and innovations of this domain over the last 5-10 years?
 
-## Results
+  * Since the pandemic in 2020, digital bank account numbers rose from 68% in 2017 to 76% in 2023, in past years such as 2011 the percentage was only a small 51%. When the pandemic was occuring we optimized our non-contact payment systems, which led to an increase in online banking. (Forbes)
 
-* What has been the business impact of this company so far?
+## What are the other major companies in this domain?
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+  * Last year in 2022, the most used financial app "was surprisingly PayPal"(fool.com).
+  * Another competitor of theirs Zelle is connected with several banking services such as Wells Fargo, and have a really good fraud detection system.
+  * Their other competitor 'Venmo' leans more toward the social-side with their feed feature, they also only have a 25 cent transaction fee when Cash Apps is 1.5% of the order. (Money.com)
+  * But Cash App also has its investing features going for it, allowing you to invest easier with an easy interactive UI.
 
-* How is your company performing relative to competitors in the same domain?
+# Results
 
+## What has been the business impact of this company so far?
 
-## Recommendations
+  * 'Square Cash' has allowed mom and pop stores to be able to receive credit card payments easier than ever before by turning your cellphone into a payment machine. With their branch off company 'Cash App' they allowed users to invest in stocks and in Bitcoin with ease and in partial payments. They also gave users an easy way to send money P2P with low transactional fees.
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+## What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* Why do you think that offering this product or service would benefit the company?
+  *Cash Apps main metric for success would be its user rate. Even it has seen a drop in the past years Cash App is still running really well. A reason why they've seen a deccrease in user rate is because they tend to encounter problems such as data breaches which make people less likely to bank with Cash App since there's extra risk.
 
-* What technologies would this additional product or service utilize?
+## How is your company performing relative to competitors in the same domain?
 
-* Why are these technologies appropriate for your solution?
-```
+  * With Cash App producing $10.6 billion in revenue I would say Cash App isn't doing to bad for itself, even though the company is down 14% from 2021. It might've not taken the place for most downloaded but it is definitly still making good profit.
 
-### 4. Write the case study.
+# Recommendations
 
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
+## If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
+  * Add a calendar feature which allows me to date and see my upcoming payments, incomes, and dividends.
 
+## Why do you think that offering this product or service would benefit the company?
 
-### 5. Upload your case study to your git repository.
+  * It would allow users to map out their expenses and their incomes, they would be able to visualize their transactions through the calendar.
 
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+## What technologies would this additional product or service utilize?
 
----
+  * It would add another icon to the bottom of the screen and it would just take some extra coding to generate the calendar.
+
+## Why are these technologies appropriate for your solution?
+
+  * They are appropriate because it would take a simple update to the app and wouldn't be too expensive or challenging for the company.
+
 
 ## Resources
 
-### FinTech Companies and Domains
+### Sources & URLs
 
 For an overview of some of the most successful companies across FinTech domains, check out these resources:
 
-* [The 11 Biggest FinTech Companies in America 2021](https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/?sh=2072785b4f13)
+* [The Evolution Of Payment Innovation In Emerging Markets](https://www.forbes.com/sites/forbestechcouncil/2023/01/05/the-evolution-of-payment-innovation-in-emerging-markets/?sh=26443c3a32c3))
 
-* [The Most Innovative FinTech Companies in 2021, Forbes](https://www.forbes.com/fintech/2021/#12338a0831a6)
+* [The Most-Downloaded Finance App Worldwide in 2022 Might Surprise You]((https://www.fool.com/investing/2022/07/31/forget-cash-app-heres-the-most-downloaded-finance/))
 
-* [World FinTech Report, Capgemini](https://fintechworldreport.com/)
+* [Should You Use Venmo, Zelle or Cash App? Everything You Need to Know About the Hottest Mobile Payment Apps](https://money.com/venmo-cash-app-zelle-better/)
 
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
+* [How to invest through Cash App]((https://www.businessinsider.com/personal-finance/how-to-buy-stocks-cash-app))
 
-* [Hottest FinTech Startups, Business Insider](https://www.businessinsider.com/top-fintech-startup-companies)
+* [Who Was Cash App Founder Bob Lee? His Shocking Death and Story, Explained](https://www.biography.com/business-leaders/a43541581/who-was-bob-lee-cash-app-founder-stabbed-to-death)
 
-* [Top 10 FinTech Companies to Watch, TheStreet](https://www.thestreet.com/technology/fintech-companies-14891479)
+* [Cash App Revenue and Usage Statistics (2023)](https://www.businessofapps.com/data/cash-app-statistics/)
 
-* [33 FinTech Companies and Startups to Keep in Your Back Pocket, Built In](https://builtin.com/fintech/fintech-companies-startups-to-know)
+* [Smart Money Awards: The Best Financial Apps and Services of 2022](https://www.realsimple.com/work-life/money/best-financial-apps-2022)
 
-* [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
-
-### Research Material
-
-As you research your company, you may find these types resources to be useful:
-
-* The company’s website
-
-* The company’s blog
-
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
-
-* Websites of competitors
-
-* FinTech blogs and/or podcasts
-
-* Interviews with the company’s founders, CTOs, or project leads
-
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
-
-* [Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
-
-* [McKinsey & Company](https://www.mckinsey.com/featured-insights/fintech)
-
-* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
-
-* [TechCrunch](https://techcrunch.com/tag/fintech/)
-
-* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
-
-* [Built In](https://builtin.com/fintech)
-
-* [FinTech Weekly](https://www.fintechweekly.com/)
-
-* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
-
-* [Stackshare](https://stackshare.io/)
-
-* [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
+* [The CEO of Twitter got fired. So he invented Cash App, and made $40 Billion.](https://www.youtube.com/watch?v=10ttuXpHpCc&t=127s)
 
 ### Submission
 
